@@ -1,0 +1,116 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="390dp"
+        android:layout_height="127dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn00"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn01"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn02"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="360dp"
+        android:layout_height="127dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn10"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn11"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn12"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="390dp"
+        android:layout_height="127dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn20"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn21"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn22"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="390dp"
+        android:layout_height="127dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn30"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn31"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="127dp"
+            android:id="@+id/btn32"
+            android:text="@string/btn_name"
+            android:onClick="abrir"/>
+    </LinearLayout>
+
+</LinearLayout>
